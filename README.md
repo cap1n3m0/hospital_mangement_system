@@ -22,12 +22,12 @@ Follow the steps below to set up and run the web app:
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/john-thuo1/hospitalbookingmanagementsystem.git
+   
    ```
 
 2. Change into the project directory:
    ```shell
-   cd djangohospitalappointment
+   
    ```
 
 3. Create a virtual environment:
